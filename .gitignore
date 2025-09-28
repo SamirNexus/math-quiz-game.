@@ -1,0 +1,24 @@
+# Ignore Visual Studio files
+.vs/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+*.db
+
+# Ignore build files
+/build/
+/bin/
+/obj/
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
+.DS_Store
